@@ -1,6 +1,35 @@
 body {
-    width: 400px;
-    margin: auto;
+/*    width: 30%;*/
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    body {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    body {
+        width: 98%;
+/*        padding-left: 20px;*/
+        margin: 0 auto;
+    }
 }
 
 h2 {
