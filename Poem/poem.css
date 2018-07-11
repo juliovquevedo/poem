@@ -1,3 +1,7 @@
+.show {
+    display: none;
+}
+
 div, h5 {
     width: 320px;
     margin: auto;
