@@ -1,48 +1,15 @@
-/*
-@media screen and (min-width: 360px) {
-    div {
-        width: 90%;
-        margin: auto;
-    }
-}
-
-@media screen and (min-width: 400px) {
-    div {
-        width: 80%;
-        margin: auto;
-    }
-}
-
-@media screen and (min-width: 450px) {
-    div {
-        width: 70%;
-        margin: auto;
-    }
-}
-
-@media screen and (min-width: 520px) {
-    div {
-        width: 60%;
-        margin: auto;
-    }
-}
-
-@media screen and (min-width: 615px) {
-    div {
-        width: 50%;
-        margin: auto;
-    }
-}
-*/
-div {
+div, h5 {
     width: 320px;
     margin: auto;
 }
+
 h1 {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 p {
-    font-family: 'Alegreya Sans', sans-serif;
-    font-size: 1.3em;
+/*    font-family: 'Alegreya Sans', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
+/*    font-size: 1.3em;*/
 }
