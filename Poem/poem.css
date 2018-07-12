@@ -1,8 +1,6 @@
-/*
 .show {
     display: none;
 }
-*/
 
 div, h5 {
     width: 320px;
@@ -16,6 +14,6 @@ h1 {
 
 p {
 /*    font-family: 'Alegreya Sans', sans-serif;*/
-/*    font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
 /*    font-size: 1.3em;*/
 }
